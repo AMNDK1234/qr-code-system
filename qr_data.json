@@ -1,0 +1,10 @@
+{
+  "abc123": {
+    "status": "enabled",
+    "destination": "https://example.com"
+  },
+  "xyz789": {
+    "status": "disabled",
+    "destination": "https://another.com"
+  }
+}
